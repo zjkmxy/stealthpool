@@ -1,4 +1,4 @@
-// +build !windows,!appengine
+//go:build !windows && !appengine
 
 package stealthpool
 
