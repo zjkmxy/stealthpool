@@ -31,7 +31,7 @@ linters-settings:
   gofmt:
     simplify: true
   goimports:
-    local-prefixes: github.com/Link512/stealthpool
+    local-prefixes: github.com/zjkmxy/stealthpool
   gocritic:
     disabled-checks:
     enabled-tags:

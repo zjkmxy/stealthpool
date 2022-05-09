@@ -6,7 +6,7 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/Link512/stealthpool"
+	"github.com/zjkmxy/stealthpool"
 )
 
 func TestPool_New(t *testing.T) {

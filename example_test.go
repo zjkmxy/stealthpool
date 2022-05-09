@@ -4,7 +4,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/Link512/stealthpool"
+	"github.com/zjkmxy/stealthpool"
 )
 
 func ExampleNew() {
